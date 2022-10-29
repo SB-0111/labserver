@@ -5,10 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Pasos para conseguir la Green Card -> Enamorar a una gringa ->
-          abandonar a la gringa
-        </p>
+        <p>Pasos para conseguir la Green Card</p>
+        <p>Enamorar a una gringa</p>
+        <p>abandonar a la gringa</p>
       </header>
     </div>
   );
