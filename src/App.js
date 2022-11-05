@@ -8,6 +8,7 @@ function App() {
         <p>Pasos para conseguir la Green Card</p>
         <p>1.Enamorar a una gringa</p>
         <p>2.Abandonar a la gringa</p>
+        <p>3.Enamorar a otra gringa</p>
       </header>
     </div>
   );
